@@ -1,1 +1,2 @@
 npm install express mysql
+node server.js
